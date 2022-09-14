@@ -1,6 +1,6 @@
 - 👋 Welcome to my profile, Hi, I’m @Jullyheder
 - 👀 I’m interested in software development, mobile and web!
-- 🌱 I’m currently learning mql4, mql5, laravel and react native!
+- 🌱 I’m currently learning python, flask and react native!
 - 📫 How to reach me in email -> jullyheder@hotmail.com
 
 <!---
